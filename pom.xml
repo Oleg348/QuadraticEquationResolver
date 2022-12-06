@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.oleg348</groupId>
 	<artifactId>quadraticequationresolver</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>quadraticequationresolver</name>
 	<description>Quadratic Equation Resolver</description>
 
